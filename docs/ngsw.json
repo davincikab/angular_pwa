@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1591004714766,
+  "index": "angular_pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "angular_pwa/favicon.ico",
+        "angular_pwa/index.html",
+        "angular_pwa/main-es2015.508450dc2fa474191a97.js",
+        "angular_pwa/main-es5.508450dc2fa474191a97.js",
+        "angular_pwa/manifest.webmanifest",
+        "angular_pwa/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "angular_pwa/polyfills-es5.9e286f6d9247438cbb02.js",
+        "angular_pwa/runtime-es2015.1eba213af0b233498d9d.js",
+        "angular_pwa/runtime-es5.1eba213af0b233498d9d.js",
+        "angular_pwa/styles.cff30c6c8118fa10497c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "angular_pwa/assets/icons/icon-128x128.png",
+        "angular_pwa/assets/icons/icon-144x144.png",
+        "angular_pwa/assets/icons/icon-152x152.png",
+        "angular_pwa/assets/icons/icon-192x192.png",
+        "angular_pwa/assets/icons/icon-384x384.png",
+        "angular_pwa/assets/icons/icon-512x512.png",
+        "angular_pwa/assets/icons/icon-72x72.png",
+        "angular_pwa/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "angular_pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "angular_pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "angular_pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "angular_pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "angular_pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "angular_pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "angular_pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "angular_pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "angular_pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "angular_pwa/index.html": "7bef309b9513637026118fef140e54d06c536062",
+    "angular_pwa/main-es2015.508450dc2fa474191a97.js": "c29bb31273c3b957438ede078f7a82a20cf11f5c",
+    "angular_pwa/main-es5.508450dc2fa474191a97.js": "5cb4a33915f808a3fe36587404444e3aba6e46f1",
+    "angular_pwa/manifest.webmanifest": "7a08f599f10ad932455b3b939d6b02019e253d9d",
+    "angular_pwa/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "angular_pwa/polyfills-es5.9e286f6d9247438cbb02.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "angular_pwa/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "angular_pwa/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "angular_pwa/styles.cff30c6c8118fa10497c.css": "507c9903e3b5f1b7df98b4ce2d9b9656a18abae0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
